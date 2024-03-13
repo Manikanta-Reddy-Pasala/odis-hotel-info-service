@@ -1,0 +1,1 @@
+# odis-hotel-info-service
